@@ -1,0 +1,2 @@
+# DLL-INJECTOR
+I created a dll injector  I am  going to Open source its Code. But remember one thing that is any one can use it only for Educational purpose .I again say  do not use it to damage anyone's Computer.But one thing if you are using it for some good purpose like to help someone who really need  help then I permit you to use it and help someone without any delay I permit you to use it for any good purpose .Thanks!
